@@ -1,25 +1,22 @@
-### Welcome to my GitHub Profile  
+### Welcome to my little code corner of the world  
 
-## All about me - 
-  * I'm currently working on...  
-  * My passions are...  
-  * What I'd like to do next is...
-  * Fun Fact: ...  
+#### About dsmith73:   
+  * **I'm currently working on** automation and efficiency improvement projects  
+  * **My passions are:** Code, Food, DIY, & Predictive Analytics  
+  * **Next, I'd like to:** Deploy websites based on my projects, which deliver useful tools to other coders  
+  * **Fun Fact:** I enjoy growing peppers and learning about analytical topics  
 
 ---
 
-### Connect:  
+#### Shall We Connect:  
 
-[<img align="left" alt="dsmith73 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  
-[<img align="left" alt="📓 | Projects" width="22px" src="https://www.pinclipart.com/picdir/middle/13-135517_spiral-notebook-clipart-spiral-notebook-clipart-red-school.png" />][projects]  
-[<img align="left" alt="dsmith73 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-[<img align="left" alt="dsmith73 | Slack" width="22px" src="https://www.clipartmax.com/png/middle/199-1998466_slack-icon-slack-logo.png" />][slack]  
+[<img align="left" alt="dsmith73 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  [<img align="left" alt="📓 | Projects" width="22px" src="https://www.pinclipart.com/picdir/middle/13-135517_spiral-notebook-clipart-spiral-notebook-clipart-red-school.png" />][projects]  [<img align="left" alt="dsmith73 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [<img align="left" alt="dsmith73 | Slack" width="22px" src="https://www.clipartmax.com/png/middle/199-1998466_slack-icon-slack-logo.png" />][slack]  
 
 <br />
 
 ---
 
-### Languages & Tools:  
+#### Languages & Tools:  
 
 <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Docker" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" />
@@ -52,11 +49,9 @@
 
 ---  
 
-
 <img align="left" alt="dsmith73 GitHub Stats:" src="https://github-readme-stats.vercel.app/api?username=dsmith73&show_icons=true&hide_border=true&theme=dark" />  
 
-
-<img align="left" alt="dsmith73 Language Usage:" src="https://github-readme-stats.vercel.app/api/top_langs/?username=dsmith73&show_icons=true&hide_border=true&theme=dark&layout=compact" />  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsmith73&layout=compact&theme=dark)](https://github.com/dsmith73)  
 
 ---  
 
