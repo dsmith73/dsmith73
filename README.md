@@ -49,9 +49,10 @@
 
 ---  
 
-<img align="left" alt="dsmith73 GitHub Stats:" src="https://github-readme-stats.vercel.app/api?username=dsmith73&show_icons=true&hide_border=true&theme=dark" />  
+<img align="left" alt="dsmith73 GitHub Stats:" src="https://github-readme-stats.vercel.app/api?username=dsmith73&show_icons=true&hide_border=true&theme=algolia" />  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsmith73&layout=compact&theme=dark)](https://github.com/dsmith73)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsmith73&layout=compact&theme=algolia)](https://github.com/dsmith73)  
+ 
 
 ---  
 
