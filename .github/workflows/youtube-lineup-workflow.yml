@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "YOUTUBE-LINEUP"
-          feed_list: "https://www.youtube.com/feed/history?user_id=ER2o8urQYi6hr3qmPZIJww"
+          comment_tag_name: "YOUTUBE-WATCH_LATER"
+          feed_list: "https://www.youtube.com/playlist?list=WL&user_id=ER2o8urQYi6hr3qmPZIJww"
