@@ -43,7 +43,7 @@
 
 ---  
 
-### freeCodeCamp Timeline -  
+<!-- ### freeCodeCamp Timeline -  -->
 <!-- FCC-Timeline:START -->  
 <!-- FCC-Timeline:END -->  
 
