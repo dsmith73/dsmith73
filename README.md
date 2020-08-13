@@ -8,9 +8,9 @@
 
 ---
 
-#### Shall We Connect:  
+#### Connect:  
 
-[<img align="left" alt="dsmith73 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  [<img align="left" alt="📓 | Projects" width="22px" src="https://www.pinclipart.com/picdir/middle/13-135517_spiral-notebook-clipart-spiral-notebook-clipart-red-school.png" />][projects]  [<img align="left" alt="dsmith73 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [<img align="left" alt="dsmith73 | Slack" width="22px" src="https://www.clipartmax.com/png/middle/199-1998466_slack-icon-slack-logo.png" />][slack]  [<img align="left" alt="dsmith73 | freeCodeCamp" width="22px" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" />][freecodecamp]  
+[<img align="left" alt="dsmith73 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  [<img align="left" alt="dsmith73 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [<img align="left" alt="dsmith73 | Slack" width="22px" src="https://www.clipartmax.com/png/middle/199-1998466_slack-icon-slack-logo.png" />][slack]  [<img align="left" alt="dsmith73 | freeCodeCamp" width="22px" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" />][freecodecamp]  
 
 <br />
 
@@ -42,6 +42,13 @@
 <br />
 
 ---  
+
+#### Have Fun:  
+
+[Random Quiz](https://dsmith73-quiz-app.glitch.me)  
+[Tic-Tac-Toe...Lizard - Spock](https://dsmith73.github.io/toolbox/js/tic-tac-toe/tic-tac-toe.html)  
+[Memory](https://dsmith73.github.io/toolbox/js/card-match/card-match.html)  
+[Synthesizer](https://dsmith73.github.io/toolbox/js/synth/synth.html)  
 
 <!-- ### freeCodeCamp Timeline -  -->
 <!-- FCC-Timeline:START -->  
