@@ -1,0 +1,17 @@
+name: YouTube Lineup (History)
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube-lineup:
+    name: Update this repo's README with latest youtube history
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE-LINEUP"
+          feed_list: "https://www.youtube.com/feed/history?user_id=ER2o8urQYi6hr3qmPZIJww"
