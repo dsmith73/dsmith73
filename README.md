@@ -1,95 +1,96 @@
-1. undefined
-2. undefined
-3. undefined
-4. undefined
-5. undefined
-6. undefined
-7. undefined
-8. undefined
-9. undefined
-10. undefined
-11. undefined
-12. undefined
-13. undefined
-14. undefined
-15. undefined
-16. undefined
-17. undefined
-18. undefined
-19. undefined
-20. undefined
-21. undefined
-22. undefined
-23. undefined
-24. undefined
-25. undefined
-26. undefined
-27. undefined
-28. undefined
-29. undefined
-30. undefined
-31. undefined
-32. undefined
-33. undefined
-34. undefined
-35. undefined
-36. undefined
-37. undefined
-38. undefined
-39. undefined
-40. undefined
-41. undefined
-42. undefined
-43. undefined
-44. undefined
-45. undefined
-46. undefined
-47. undefined
-48. undefined
-49. undefined
-50. undefined
-51. undefined
-52. undefined
-53. undefined
-54. undefined
-55. undefined
-56. undefined
-57. undefined
-58. undefined
-59. undefined
-60. undefined
-61. undefined
-62. undefined
-63. undefined
-64. undefined
-65. undefined
-66. undefined
-67. undefined
-68. undefined
-69. undefined
-70. undefined
-71. undefined
-72. undefined
-73. undefined
-74. undefined
-75. undefined
-76. undefined
-77. undefined
-78. undefined
-79. undefined
-80. undefined
-81. undefined
-82. undefined
-83. undefined
-84. undefined
-85. undefined
-86. undefined
-87. undefined
-88. undefined
-89. undefined
-90. undefined
-91. undefined
-92. undefined
-93. undefined
-94. undefined
-95. undefined
+### Welcome to my little code corner of the world  
+
+#### About dsmith73:   
+  * **I'm currently working on** automation and efficiency improvement projects  
+  * **My passions are:** Code, Food, DIY, & Predictive Analytics  
+  * **Next, I'd like to:** Deploy websites based on my projects, which deliver useful tools to other coders  
+  * **Fun Fact:** I enjoy growing peppers and learning about analytical topics  
+
+---
+
+#### Connect:  
+
+[<img align="left" alt="dsmith73 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  [<img align="left" alt="dsmith73 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [<img align="left" alt="dsmith73 | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Slack.svg" />][slack]  [<img align="left" alt="dsmith73 | freeCodeCamp" width="22px" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" />][freecodecamp]  [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/d_smith_73?color=%231da1f2&label=follow%20me&logo=Twitter&style=plastic" />][twitter]  
+
+<br />
+
+---
+
+#### Languages & Tools:  
+
+<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<!-- https://github.com/simple-icons/simple-icons & http://simpleicons.org/ -->
+<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+<img align="left" alt="CodePen" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+<img align="left" alt="Glitch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/glitch.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="GO" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
+<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Prometheus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/prometheus.svg" />
+<img align="left" alt="aws" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="left" alt="bash" width="26px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
+<img align="left" alt="bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="chartjs" width="26px" src="https://www.chartjs.org/media/logo-title.svg" />
+<img align="left" alt="d3" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" />
+<img align="left" alt="figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+<img align="left" alt="gcp" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+<img align="left" alt="java" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="jekyll" width="26px" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" />
+<img align="left" alt="k8" width="26px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
+<img align="left" alt="linux" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />
+<img align="left" alt="ruby" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" />
+<img align="left" alt="vagrant" width="26px" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" />
+
+
+<br />
+<br />
+
+---  
+
+#### Have Fun:  
+
+[Random Quiz](https://dsmith73-quiz-app.glitch.me)  
+[Tic-Tac-Toe...Lizard - Spock](https://dsmith73.github.io/toolbox/js/tic-tac-toe/tic-tac-toe.html)  
+[Memory](https://dsmith73.github.io/toolbox/js/card-match/card-match.html)  
+[Synthesizer](https://dsmith73.github.io/toolbox/js/synth/synth.html)  
+
+<!-- ### freeCodeCamp Timeline -  -->
+<!-- FCC-Timeline:START -->  
+<!-- FCC-Timeline:END -->  
+
+---  
+
+#### Recent Activity:
+
+<img align="left" src="https://komarev.com/ghpvc/?username=dsmith73" alt="dsmith73" />  
+
+<!--START_SECTION:activity-->
+
+
+---
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="left" alt="dsmith73 GitHub Stats:" src="https://github-readme-stats.dsmith73.vercel.app/api?username=dsmith73&show_icons=true&hide_border=true&theme=algolia" />  
+
+[![Top Langs](https://github-readme-stats.dsmith73.vercel.app/api/top-langs/?username=dsmith73&layout=compact&theme=algolia)](https://github.com/dsmith73)  
+
+---  
+
+
+[website]: https://dsmith73.github.io  
+[projects]: https://dsmith73.github.com/apps.html  
+[linkedin]: https://www.linkedin.com/in/dsmith73  
+[slack]: https://101101workspace.slack.com/archives/D012ESWSXHQ
+[freecodecamp]: https://www.freecodecamp.org/dsmith73  
+[twitter]: https://twitter.com/d_smith_73?ref_src=twsrc%5Etfw 
+
