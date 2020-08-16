@@ -10,7 +10,7 @@
 
 #### Connect:  
 
-[<img align="left" alt="dsmith73 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  [<img align="left" alt="dsmith73 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [<img align="left" alt="dsmith73 | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Slack.svg" />][slack]  [<img align="left" alt="dsmith73 | freeCodeCamp" width="22px" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" />][freecodecamp]  [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/d_smith_73?color=%231da1f2&label=follow%20me&logo=Twitter&style=plastic" />][twitter]  
+[<img align="left" alt="dsmith73 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  [<img align="left" alt="dsmith73 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [<img align="left" alt="dsmith73 | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][slack]  [<img align="left" alt="dsmith73 | freeCodeCamp" width="22px" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" />][freecodecamp]  [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/d_smith_73?color=%231da1f2&label=follow%20me&logo=Twitter&style=plastic" />][twitter]  
 
 <br />
 
@@ -22,9 +22,9 @@
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <!-- https://github.com/simple-icons/simple-icons & http://simpleicons.org/ -->
-<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/GitLab.svg" />
-<img align="left" alt="CodePen" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/CodePen.svg" />
-<img align="left" alt="Glitch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Glitch.svg" />
+<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+<img align="left" alt="CodePen" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
+<img align="left" alt="Glitch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/glitch.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="GO" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
@@ -36,7 +36,7 @@
 <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
 <img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Prometheus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Prometheus.svg" />
+<img align="left" alt="Prometheus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/prometheus.svg" />
 <img align="left" alt="aws" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img align="left" alt="bash" width="26px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
 <img align="left" alt="bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" />
