@@ -60,11 +60,11 @@
 #### Have Fun:  
 
 [Random Quiz](https://dsmith73-quiz-app.glitch.me)  
-[Tic-Tac-Toe...Lizard - Spock](https://dsmith73.github.io/toolbox/js/tic-tac-toe/tic-tac-toe.html)  
+[Tic-Tac-Toe](https://dsmith73.github.io/toolbox/js/tic-tac-toe/tic-tac-toe.html)  
+[Rock-Paper-Scissors...Lizard-Spock](https://dsmith73.github.io/toolbox/js/rock-paper-scissors/index.html)  
 [Memory](https://dsmith73.github.io/toolbox/js/card-match/card-match.html)  
 [Synthesizer](https://dsmith73.github.io/toolbox/js/synth/synth.html)  
 
-<!-- ### freeCodeCamp Timeline -  -->
 <!-- FCC-Timeline:START -->  
 <!-- FCC-Timeline:END -->  
 
