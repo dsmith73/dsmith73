@@ -10,7 +10,7 @@
 
 #### Connect:  
 
-[<img align="left" alt="dsmith73 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  [<img align="left" alt="dsmith73 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [<img align="left" alt="dsmith73 | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Slack.svg" />][slack]  [<img align="left" alt="dsmith73 | freeCodeCamp" width="22px" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" />][freecodecamp]  [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/d_smith_73?color=%231da1f2&label=follow%20me&logo=Twitter&style=plastic" />][twitter]  
+[<img align="left" alt="dsmith73 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  [<img align="left" alt="dsmith73 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [<img align="left" alt="dsmith73 | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][slack]  [<img align="left" alt="dsmith73 | freeCodeCamp" width="22px" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" />][freecodecamp]  [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/d_smith_73?color=%231da1f2&label=follow%20me&logo=Twitter&style=plastic" />][twitter]  
 
 <br />
 
