@@ -72,10 +72,7 @@
 
 #### Recent Activity:
 
-<img align="left" src="https://komarev.com/ghpvc/?username=dsmith73" alt="dsmith73" />  
-
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 
@@ -85,6 +82,8 @@
 <img align="left" alt="dsmith73 GitHub Stats:" src="https://github-readme-stats.dsmith73.vercel.app/api?username=dsmith73&show_icons=true&hide_border=true&theme=algolia" />  
 
 [![Top Langs](https://github-readme-stats.dsmith73.vercel.app/api/top-langs/?username=dsmith73&layout=compact&theme=algolia)](https://github.com/dsmith73)  
+
+<img align="left" src="https://komarev.com/ghpvc/?username=dsmith73" alt="dsmith73" />  
 
 ---  
 
