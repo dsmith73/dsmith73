@@ -64,6 +64,8 @@
 [Rock-Paper-Scissors...Lizard-Spock](https://dsmith73.github.io/toolbox/js/rock-paper-scissors/index.html)  
 [Memory](https://dsmith73.github.io/toolbox/js/card-match/card-match.html)  
 [Synthesizer](https://dsmith73.github.io/toolbox/js/synth/synth.html)  
+[Minesweeper](https://dsmith73.github.io/toolbox/js/minesweeper/index.html)
+[Flappy](https://dsmith73.github.io/toolbox/js/flappy/index.html)
 
 <!-- FCC-Timeline:START -->  
 <!-- FCC-Timeline:END -->  
@@ -73,7 +75,6 @@
 #### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 
