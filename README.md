@@ -10,7 +10,7 @@
 
 #### Connect:  
 
-[<img align="left" alt="dsmith73 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  [<img align="left" alt="dsmith73 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [<img align="left" alt="dsmith73 | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][slack]  [<img align="left" alt="dsmith73 | freeCodeCamp" width="22px" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" />][freecodecamp]  [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/d_smith_73?color=%231da1f2&label=follow%20me&logo=Twitter&style=plastic" />][twitter]  
+[<img align="left" alt="dsmith73 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  [<img align="left" alt="dsmith73 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [<img align="left" alt="dsmith73 | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][slack]  [<img align="left" alt="dsmith73 | freeCodeCamp" width="22px" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" />][freecodecamp]  [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/d_smith_73?color=%231da1f2&label=follow%20me&logo=Twitter&style=plastic" />][twitter]  [<img align="left" alt="codePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]  [<img align="left" alt="glitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/glitch.svg" />][glitch]  
 
 <br />
 
@@ -23,8 +23,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <!-- https://github.com/simple-icons/simple-icons & http://simpleicons.org/ -->
 <img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
-<img align="left" alt="CodePen" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
-<img align="left" alt="Glitch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/glitch.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="GO" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
@@ -57,18 +55,20 @@
 
 ---  
 
-#### Have Fun:  
+#### Highlights  
 
-[Random Quiz](https://dsmith73-quiz-app.glitch.me)  
-[Tic-Tac-Toe](https://dsmith73.github.io/toolbox/js/tic-tac-toe/tic-tac-toe.html)  
-[Rock-Paper-Scissors...Lizard-Spock](https://dsmith73.github.io/toolbox/js/rock-paper-scissors/index.html)  
-[Memory](https://dsmith73.github.io/toolbox/js/card-match/card-match.html)  
-[Synthesizer](https://dsmith73.github.io/toolbox/js/synth/synth.html)  
-[Minesweeper](https://dsmith73.github.io/toolbox/js/minesweeper/index.html)  
-[Flappy](https://dsmith73.github.io/toolbox/js/flappy/index.html)  
-[Frogger](https://dsmith73.github.io/toolbox/js/frogger/index.html)  
-[Asteroids](https://dsmith73.github.io/toolbox/js/asteroids/index.html)  
-[Simon Says](https://dsmith73.github.io/toolbox/js/simon-says/index.html)  
+| Fun | Productivity |
+| :---: | :---: |
+| [Random Quiz](https://dsmith73-quiz-app.glitch.me)  | [Markdown Maker](https://dsmith73.github.io/toolbox/js/md-maker/index.html "Make MD templates from your code") | 
+| [Tic-Tac-Toe](https://dsmith73.github.io/toolbox/js/tic-tac-toe/tic-tac-toe.html)  | [KB](https://101101.github.io/kb "Knowledge Base with tag based lookup") |
+| [Rock-Paper-Scissors...Lizard-Spock](https://dsmith73.github.io/toolbox/js/rock-paper-scissors/index.html)  | [Private Ansible Plays](# "Private - PM me if you'd like to know more") |
+| [Memory](https://dsmith73.github.io/toolbox/js/card-match/card-match.html)  | [Private Terraform Scripts](# "Private - PM me if you want my boilerplates for PagerDuty or OpsGenie")  | 
+| [Synthesizer](https://dsmith73.github.io/toolbox/js/synth/synth.html)  | [Prometheus on Docker](https://101101.github.io "Restricted - PM me and I'll share the code")  | 
+| [Minesweeper](https://dsmith73.github.io/toolbox/js/minesweeper/index.html)  |   | 
+| [Flappy](https://dsmith73.github.io/toolbox/js/flappy/index.html)  |   | 
+| [Frogger](https://dsmith73.github.io/toolbox/js/frogger/index.html)  |   | 
+| [Asteroids](https://dsmith73.github.io/toolbox/js/asteroids/index.html)  |   | 
+| [Simon Says](https://dsmith73.github.io/toolbox/js/simon-says/index.html)  |   | 
 
 <!-- FCC-Timeline:START -->  
 <!-- FCC-Timeline:END -->  
@@ -78,7 +78,6 @@
 #### Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com//jamesgeorge007/github-activity-readme/issues/13) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
 
@@ -99,5 +98,7 @@
 [linkedin]: https://www.linkedin.com/in/dsmith73  
 [slack]: https://101101workspace.slack.com/archives/D012ESWSXHQ
 [freecodecamp]: https://www.freecodecamp.org/dsmith73  
-[twitter]: https://twitter.com/d_smith_73?ref_src=twsrc%5Etfw 
+[twitter]: https://twitter.com/d_smith_73?ref_src=twsrc%5Etfw  
+[codepen]: https://codepen.io/dsmith73  
+[glitch]: https://glitch.com/@dsmith73  
 
