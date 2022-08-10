@@ -10,7 +10,7 @@
 
 #### Connect:  
 
-[<img align="left" alt="dsmith73 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  [<img align="left" alt="dsmith73 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  [<img align="left" alt="dsmith73 | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][slack]  [<img align="left" alt="dsmith73 | freeCodeCamp" width="22px" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" />][freecodecamp]  [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/d_smith_73?color=%231da1f2&label=follow%20me&logo=Twitter&style=plastic" />][twitter]  [<img align="left" alt="codePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]  [<img align="left" alt="glitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/glitch.svg" />][glitch]  
+[<img align="left" alt="dsmith73 | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]  [<img align="left" alt="dsmith73 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]  [<img align="left" alt="dsmith73 | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][slack]  [<img align="left" alt="dsmith73 | freeCodeCamp" width="22px" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" />][freecodecamp]  [<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/d_smith_73?color=%231da1f2&label=follow%20me&logo=Twitter&style=plastic" />][twitter]  [<img align="left" alt="codePen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]  [<img align="left" alt="glitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/glitch.svg" />][glitch]  
 
 <br />
 
@@ -20,33 +20,22 @@
 
 <img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <!-- https://github.com/simple-icons/simple-icons & http://simpleicons.org/ -->
-<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="GO" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
+<img align="left" alt="GO" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />
 <img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Prometheus" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/prometheus.svg" />
-<img align="left" alt="aws" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="left" alt="bash" width="26px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />
-<img align="left" alt="bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" />
-<img align="left" alt="chartjs" width="26px" src="https://www.chartjs.org/media/logo-title.svg" />
-<img align="left" alt="d3" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" />
-<img align="left" alt="figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-<img align="left" alt="gcp" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
-<img align="left" alt="java" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" />
+<img align="left" alt="Prometheus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
+<img align="left" alt="aws" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+<img align="left" alt="bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="jekyll" width="26px" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" />
+<img align="left" alt="ruby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
 <img align="left" alt="k8" width="26px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />
-<img align="left" alt="linux" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />
-<img align="left" alt="ruby" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" />
+<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="vagrant" width="26px" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" />
 
 
@@ -54,6 +43,8 @@
 <br />
 
 ---  
+
+<br />
 
 #### Highlights  
 
